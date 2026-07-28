@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033A0,100:0093D0&height=190&section=header&text=Rienchy%20Razak&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Applied%20Machine%20Learning&descSize=17&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033A0,100:0093D0&height=190&section=header&text=Rienchy%20Razak&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineering%20%7C%20Applied%20Machine%20Learning&descSize=17&descAlignY=56" width="100%" alt="Rienchy Razak" />
+
+<br><br>
 
 <a href="https://portfolio-rienchy-razak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0033A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rienchy-razak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -75,44 +77,63 @@ Open to internship and entry level software engineering roles, particularly wher
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/E-Wallet-REST-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=E-Wallet-REST-API&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>Transfers settle asynchronously through a background worker, so the request path stays fast and funds are never lost between two accounts. 26 passing tests.</p>
+      <h3><a href="https://github.com/MRRzkS/E-Wallet-REST-API">E-Wallet REST API</a></h3>
+      <p>Digital wallet backend covering auth, top up, payments, peer to peer transfers and reporting. Transfers settle asynchronously through a background worker, so the request path stays fast and funds are never lost between two accounts. 26 passing tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/online-markdown-editor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=online-markdown-editor&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>PDF export driven by the browser's own print engine rather than a screenshot, with paper size, margins and page break rules. <a href="https://online-markdown-editor-olive.vercel.app">Live demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=Portfolio&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>Personal site with an authenticated admin area that manages its own content. <a href="https://portfolio-rienchy-razak.vercel.app">Live</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/Kolmogorov-Arnold-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=Kolmogorov-Arnold-Network&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>B-spline bases built from the Cox-de Boor recursion in pure PyTorch, benchmarked against a parameter matched MLP.</p>
+      <h3><a href="https://github.com/MRRzkS/online-markdown-editor">MarkdownPad</a></h3>
+      <p>Browser based markdown editor whose PDF export is driven by the browser's own print engine rather than a screenshot, with configurable paper size, margins and page break rules. Fully client side, nothing is uploaded.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p><a href="https://online-markdown-editor-olive.vercel.app"><b>Live demo</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/physics-informed-burgers-pinn">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=physics-informed-burgers-pinn&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>Replication of Raissi et al. (2019). Solves the forward PDE and recovers hidden viscosity and advection coefficients from sparse data.</p>
+      <h3><a href="https://github.com/MRRzkS/Portfolio">Portfolio</a></h3>
+      <p>My personal site, including an authenticated admin area that manages its own content.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p><a href="https://portfolio-rienchy-razak.vercel.app"><b>Live site</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/MRRzkS/fly-high">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MRRzkS&repo=fly-high&theme=transparent&hide_border=true&show_owner=false" width="100%" />
-      </a>
-      <p>Offline first installable PWA for volleyball hitting practice. Layered service worker caching, Web Audio cues, Wake Lock. No framework.</p>
+      <h3><a href="https://github.com/MRRzkS/Kolmogorov-Arnold-Network">KAN-Torch</a></h3>
+      <p>Kolmogorov-Arnold Networks implemented from scratch. B-spline bases built from the Cox-de Boor recursion in pure PyTorch, then benchmarked against a parameter matched MLP under controlled conditions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MRRzkS/physics-informed-burgers-pinn">PINN: Burgers' Equation</a></h3>
+      <p>Replication of Raissi et al. (2019). Solves the forward PDE without a mesh, then recovers hidden viscosity and advection coefficients from sparse observations alone.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adam_+_L--BFGS-4B8BBE?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MRRzkS/fly-high">Hitter Protocol</a></h3>
+      <p>Offline first installable PWA for daily volleyball hitting practice. Layered service worker caching, Web Audio cues, Wake Lock, and streak tracking with export and import. No framework.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Service_Workers-5A0FC8?style=flat-square" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
@@ -138,13 +159,7 @@ Open to internship and entry level software engineering roles, particularly wher
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRRzkS&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=hidden-fluid-mechanics-pinn&hide=jupyter%20notebook" width="42%" />
-
+  <sub>Open to internship and entry level roles. Reach me at <a href="mailto:rienchy.razak@gmail.com">rienchy.razak@gmail.com</a>.</sub>
 </div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093D0,100:0033A0&height=110&section=footer" width="100%" />
-
-</div>
