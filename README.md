@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://portfolio-rienchy-razak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0033A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://rienchy-razak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0033A0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/rienchy-razak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:rienchy.razak@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
